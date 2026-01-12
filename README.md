@@ -1,0 +1,1 @@
+Ingeniero en Sistemas con enfoque en IA aplicada y backend. Construyo servicios de inferencia, APIs y pipelines reproducibles, con base en Python, SQL y principios de ingeniería de Software.
